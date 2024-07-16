@@ -1,4 +1,4 @@
-# Bike Sharing Assignment
+# Skin Cancer Detection Assignment
 > Problem Statement
 Build a CNN based model which can accurately detect melanoma. 
 Build a multiclass classification model using a custom convolutional neural network in TensorFlow.
